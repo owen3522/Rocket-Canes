@@ -37,3 +37,7 @@ Subscale Black Powder Results in grams<br/>
 <img src="https://i.postimg.cc/1tyQ8J8s/image.png" height=80% width=80%/>
 <br />
 <br />
+Ground Hit Velocity Calculator<br/>
+<img src="https://i.postimg.cc/XJNYRVck/image.png" height=80% width=80%/>
+<br />
+<br />
