@@ -5,7 +5,7 @@
 
 <h2>My Role</h2>
 
-- <b>Recovery Subsystem Engineer</b>
+- <b>Recovery Engineer</b>
 
 <h2>My Goal: Design and calculate variables of recovery</h2>
 
